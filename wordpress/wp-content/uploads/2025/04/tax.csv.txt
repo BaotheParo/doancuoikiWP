@@ -1,0 +1,10 @@
+country_code,state_code,postcode,city,rate,tax_name,priority,compound,shipping,tax_class
+VN,*,*,*,10,VAT,1,0,1,
+KH,*,*,*,10,VAT,1,0,1,
+MM,*,*,*,5,Commercial Tax,1,0,1,
+ID,*,*,*,11,VAT,1,0,1,
+SG,*,*,*,8,GST,1,0,1,
+MY,*,*,*,6,SST,1,0,1,
+TH,*,*,*,7,VAT,1,0,1,
+LA,*,*,*,10,VAT,1,0,1,
+CN,*,*,*,13,VAT,1,0,1,
